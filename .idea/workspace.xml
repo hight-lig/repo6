@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd81a542-8313-42ad-8c97-b8decb3ffad5" name="Default Changelist" comment="" />
+    <list default="true" id="bd81a542-8313-42ad-8c97-b8decb3ffad5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/xml解析/META-INF/xml解析.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/xml解析/book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/xml解析/dom/domxml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/xml解析/dom4j/dom4jxml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/xml解析/sax/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/xml解析/sax/BookHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/xml解析/sax/saxxml.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dom4j/dom4jxml.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="138" column="10" selection-start-line="138" selection-start-column="10" selection-end-line="138" selection-end-column="10" />
+            <state relative-caret-position="299">
+              <caret line="142" column="35" lean-forward="true" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -262,7 +272,7 @@
       <workItem from="1582602959553" duration="14437000" />
       <workItem from="1582679882459" duration="590000" />
       <workItem from="1582766167444" duration="605000" />
-      <workItem from="1583133355985" duration="2479000" />
+      <workItem from="1583133355985" duration="2719000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1583134003317</created>
@@ -285,11 +295,18 @@
       <option name="project" value="LOCAL" />
       <updated>1583136332833</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加了输出功能">
+      <created>1583136660198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583136660198</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18111000" />
+    <option name="totallyTimeSpent" value="18351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="69" width="1396" height="718" extended-state="0" />
@@ -331,7 +348,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
     <MESSAGE value="删除了输出功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除了输出功能" />
+    <MESSAGE value="增加了输出功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了输出功能" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
@@ -399,8 +417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dom4j/dom4jxml.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="138" column="10" selection-start-line="138" selection-start-column="10" selection-end-line="138" selection-end-column="10" />
+        <state relative-caret-position="299">
+          <caret line="142" column="35" lean-forward="true" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -141,6 +141,7 @@ public class dom4jxml {
         System.out.println("修改成功！");
 
         System.out.println("新增内容");
+        System.out.println("新增内容");
 
     }
 }

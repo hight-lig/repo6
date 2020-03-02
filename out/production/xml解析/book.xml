@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books> 
+  <book id="1001"> 
+    <title>武侠</title>  
+    <author>金庸</author>  
+    <price>1100</price> 
+  </book>  
+  <book id="1002"> 
+    <title>娱乐</title>  
+    <author>张大仙</author>  
+    <price>700</price> 
+  </book>  
+  <book id="1003">
+    <title>html</title>
+    <author>王五</author>
+    <price>78</price>
+  </book>
+</books>
